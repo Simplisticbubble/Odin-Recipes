@@ -1,0 +1,17 @@
+*{
+
+}
+
+h1{
+    font-family: Lora, serif;
+    font-size:200;
+    font-weight: 700;
+    line-height: 1.2;
+    color: rgb(35, 35, 90);
+    text-align: center;
+    background-color: cornflowerblue;
+    
+}
+ul{
+    margin-left: 10cm;
+}
